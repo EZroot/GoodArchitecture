@@ -1,0 +1,2 @@
+namespace ProjectScare.ServiceLocator
+{}

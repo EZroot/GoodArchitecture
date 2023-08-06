@@ -70,3 +70,22 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Obi/
+Assets/UltimateCleanGUIPack/
+Assets/Vintage House/
+Assets/BOXOPHOBIC/
+Assets/FishNet/
+Assets/Plugins/
+Assets/TextMesh Pro/
+Assets/Aura 2/
+Assets/Character Movement Fundamentals/
+Assets/KriptoFX/
+Assets/PBR_Customized_Soldier/
+Assets/AllSkyFree/
+*.meta
+Assets/_Assets/Animations/
+*.asset
+Assets/Flashlight/
+Assets/_TerrainAutoUpgrade/
+Assets/_Assets/FirstPersonWalker_Audio.prefab
+*.unity
